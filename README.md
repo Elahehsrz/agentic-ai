@@ -75,7 +75,7 @@ zChronicle is an interactive AI app designed to help you explore history through
 
 ---
 
-## Demo Screenshot
+## Demo Screenshots
 
 ![Summary & Keywords](images/1.png)
 
