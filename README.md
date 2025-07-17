@@ -106,11 +106,7 @@ zChronicle is an interactive AI app designed to help you explore history through
 
 ## 🙏 Attribution
 
-This project builds upon ideas and code from:
-
-* Ardya Dipta Nandaviri – “Building an Agentic AI Research Assistant with Gemini”
-  [Read the article on Medium »](https://medium.com/@ardyadipta/building-an-agentic-ai-research-assistant-with-gemini-51b901d3aea4)
-
+This project builds upon the code from Ardya Dipta Nandaviri [gemini_agentic_ai](https://github.com/ardyadipta/gemini_agentic_ai) and it is extended with further ideas.
 
 ---
 
